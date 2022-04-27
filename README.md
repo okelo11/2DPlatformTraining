@@ -1,5 +1,5 @@
 # 2DPlatformTraining
-IT IS A MESSY PROJECT.
+
 in english--------------------
 
 It is a "half" project made for study purposes.There are a few empty scripts, assets that are in the project but not used in the scene, etc.
